@@ -21,3 +21,8 @@ class Solution {
         return Math.sqrt(a + b);
     }
 }
+
+//INPUT: [[1,3],[3,3],[5,3],[2,2]]  (POINTS)
+//       [[2,3,1],[4,3,1],[1,1,2]]  (QUERIES)
+
+//OUTPUT: [3,2,2]
